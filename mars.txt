@@ -1,2 +1,3 @@
 Mars is the fourth planet from the Sun.
 It has a radius smaller than Earth and had a red color.
+Mars has ice caps.
